@@ -9,6 +9,7 @@ from .HuntAndKill import HuntAndKill
 from .RandomCarving import RandomCarving
 from .RandomKruskal import RandomKruskal
 from .RandomPrim import RandomPrim
+from .RecursiveDivision import RecursiveDivision
 from .Sidewinder import Sidewinder
 from .Spiral import Spiral
 from .WallsCellularAutomata import WallsCellularAutomata
