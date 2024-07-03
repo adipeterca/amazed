@@ -1,0 +1,1 @@
+from .MazeBitmap import maze_bitmap

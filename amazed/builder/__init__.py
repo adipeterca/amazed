@@ -5,7 +5,6 @@ from .DepthFirstSearch import DepthFirstSearch
 # from .GANModel import GANModel
 from .GeneticAlgorithm import GeneticAlgorithm
 from .HuntAndKill import HuntAndKill
-# from .MazeBitmap import MazeBitmap
 from .RandomCarving import RandomCarving
 from .RandomKruskal import RandomKruskal
 from .RandomPrim import RandomPrim
